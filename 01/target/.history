@@ -1,0 +1,4 @@
+version
+val i = "Hello World"
+val book = "Hello World"
+console
